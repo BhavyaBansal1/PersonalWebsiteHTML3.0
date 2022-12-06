@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.navbar container1bhavya{
+position:sticky;
+}
 .main-divbhavya{
     justify-content: left;
     position: relative;
